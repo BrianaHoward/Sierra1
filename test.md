@@ -1,0 +1,1 @@
+This is a test to make sure my Obsidian and GitHub connection is working
